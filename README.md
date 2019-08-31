@@ -1,2 +1,1 @@
-# woxPlugins
-wox插件
+WOX Plugins

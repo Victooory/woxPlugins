@@ -1,0 +1,12 @@
+{
+    "ID":"2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword":"sj",
+    "Name":"时间戳工具",
+    "Description":"时间和时间戳相互转换",
+    "Author":"yangjiandong",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/Wox-launche/Wox",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
